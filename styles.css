@@ -1,0 +1,44 @@
+body {
+    color: yellow;
+    text-align: center;
+    font-family: Koulen, sans-serif;
+    font-size: large;
+    margin: 0;
+    background-color: blue;
+}
+
+.btn {
+    padding: 6px 12px;
+    background: yellow;
+    border: none;
+    font-family: inherit;
+    cursor: grab;
+    border-radius: 20%s;
+}
+
+.underline {
+    color: blue;
+    border-bottom: 2px solid yellow;
+}
+
+#main-logo {
+    width: 20px;
+    height: 20px;
+}
+
+
+#hero {
+    background-image: url("images/giphy.gif");
+    background-size: cover;
+    padding: 10px 0 300px 0;
+    margin: 0;
+     
+}
+
+h1 {
+    text-shadow: 0px 0px 20px black;
+}
+
+h3 {
+    background-color: blue;
+}
